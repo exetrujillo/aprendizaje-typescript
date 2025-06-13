@@ -20,17 +20,22 @@ Asegúrate de tener [Node.js](https://nodejs.org/) instalado (que incluye `npm`)
 ### 2. Instalación
 Clona el repositorio e instala las dependencias de desarrollo:
 ```bash
-git clone <URL_DEL_REPO>
-cd <NOMBRE_DE_LA_CARPETA>
+git clone https://github.com/exetrujillo/aprendizaje-typescript.git
+cd aprendizaje-script
 npm install
 ```
 
 ### 3. Ejecutar una Lección
-Para compilar y ejecutar cualquier archivo de lección, usa el script `dev`:
+Para compilar, ejecutar y probar cualquier archivo de lección, usa el script `dev`:
 ```bash
 # Sintaxis: npm run dev -- <ruta-al-archivo>
-npm run dev -- Leccion_001_Introduccion_Y_Tipos_Basicos.ts
+npm run dev -- ./Lecciones/Leccion_001_Introduccion_Y_Tipos_Basicos.ts
 ```
+
+### 4. Revisar soluciones
+Recomendamos enormemente no revisarlas hasta después de haber buscado documentación e intentado realizar los ejercicios al menos un par de veces.
+De todas formas, si igualmente quieres ver las soluciones, estas se encuentran en la carpeta Soluciones (¡Sorpresa! 😂).
+Recuerda que las soluciones no son únicas, solo ofrecemos algunas opciones.
 
 ## Índice de Lecciones
 
