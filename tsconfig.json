@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",         // Compila a una versión moderna de JavaScript
+    "module": "commonjs",        // Usa el sistema de módulos estándar de Node.js
+    "outDir": "./dist",          // Guarda los archivos .js compilados en una carpeta 'dist'
+    "strict": true,              // Activa todas las reglas estrictas de TypeScript (¡muy recomendado!)
+    "esModuleInterop": true,     // Mejora la compatibilidad entre módulos
+    "skipLibCheck": true,        // Omite la revisión de tipos en los archivos de declaración (.d.ts)
+    "forceConsistentCasingInFileNames": true // Evita problemas de mayúsculas/minúsculas en los nombres de archivo
+  },
+  "include": [
+    "./**/*.ts" // Le dice a TypeScript que incluya todos los archivos .ts del proyecto
+  ]
+}

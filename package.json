@@ -1,0 +1,21 @@
+{
+  "name": "aprendizaje-typescript",
+  "version": "1.0.0",
+  "description": "Repositorio educacional para facilitar el aprendizaje de TypeScript a través de lecciones y ejercicios prácticos.",
+  "scripts": {
+    "dev": "ts-node"
+  },
+  "keywords": [
+    "typescript",
+    "learning",
+    "tutorial",
+    "javascript",
+    "lecciones"
+  ],
+  "author": "Exequiel Trujillo",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
