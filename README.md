@@ -40,7 +40,7 @@ Recuerda que las soluciones no son únicas, solo ofrecemos algunas opciones.
 ## Índice de Lecciones
 
 <details>
-  <summary><strong>Haz clic para ver el Índice Completo de Lecciones (1-10)</strong></summary>
+  <summary><strong>Haz clic para ver el Índice Completo de Lecciones (1-15)</strong></summary>
   
 | Lección | Concepto Principal                      | Archivo                                                 |
 | :-----: | --------------------------------------- | ------------------------------------------------------- |
@@ -58,6 +58,7 @@ Recuerda que las soluciones no son únicas, solo ofrecemos algunas opciones.
 |   012   | Modificadores de Acceso y Shorthand     | `Leccion_012_Modificadores_De_Acceso_Y_Shorthand.ts`    |
 |   013   | Getters y Setters                       | `Leccion_013_Getters_Y_Setters.ts`                      |
 |   014   | Herencia y Protected                    | `Leccion_014_Herencia_Y_Protected.ts`                   |
+|   015   | Clases e Interfaces                     | `Leccion_015_Clases_E_Interfaces.ts`                    |
 
 </details>
 
