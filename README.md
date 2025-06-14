@@ -57,6 +57,7 @@ Recuerda que las soluciones no son únicas, solo ofrecemos algunas opciones.
 |   011   | Clases Básicas                          | `Leccion_011_Clases_Basicas.ts`                         |
 |   012   | Modificadores de Acceso y Shorthand     | `Leccion_012_Modificadores_De_Acceso_Y_Shorthand.ts`    |
 |   013   | Getters y Setters                       | `Leccion_013_Getters_Y_Setters.ts`                      |
+|   014   | Herencia y Protected                    | `Leccion_014_Herencia_Y_Protected.ts`                   |
 
 </details>
 
